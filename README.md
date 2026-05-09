@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Get Session ID
-Bot connect cheyyaan thazheയുള്ള yenthinkilum oru server upayogikkuka:
+
 
 <p align="left">
 <a href="https://only-cathrine-menualive-c76dd2b7.koyeb.app/"><img src="https://img.shields.io/badge/Session_Server_1-Koyeb-green?style=for-the-badge&logo=render" /></a>
