@@ -1,6 +1,6 @@
 # NEXA-BOT MD WhatsApp Bot 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=200&lines=🔹+NEXA-BOT+MD+V2.0+🔹;💠+MODERN+|+SLEEK+|+POWERFUL;💎+CRAFTED+BY+arun•°Cumar;🚀+THE+NEXT+GEN+WHATSAPP+BOT;🌊+STAY+COOL+WITH+NEXA+BLUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=200&lines=🔹+NEXA-BOT+MD+V2.0+🔹;💠+MODERN+|+SLEEK+|+POWERFUL;💎+CRAFTED+BY+arun•°Cumar;🚀+THE+NEXT+MD+WHATSAPP+BOT;🌊+STAY+COOL+WITH+NEXA+BLUE" alt="Typing SVG" />
 </p>
 
 ---
