@@ -23,13 +23,13 @@
 Thazhe ulla yenthinkilum oru platform upayogichu bot deploy cheyyam:
 
 <p align="left">
-  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/arun-cumar/Nexa-Bot-Md&branch=main&name=nexa-bot-md"><img src="https://img.shields.io/badge/Deploy_to-Koyeb-blue?style=for-the-badge&logo=koyeb" /></a>
+  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/arun-cumar/Nexa-Bot-Md&branch=main&name=nexa-bot-md"><img src="https://img.shields.io/badge/Deploy_to-Koyeb-black?style=for-the-badge&logo=koyeb" /></a>
   
-  <a href="https://render.com/deploy?repo=https://github.com/arun-cumar/Nexa-Bot-Md"><img src="https://img.shields.io/badge/Deploy_to-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="https://render.com/deploy?repo=https://github.com/arun-cumar/Nexa-Bot-Md"><img src="https://img.shields.io/badge/Deploy_to-Render-black?style=for-the-badge&logo=render&logoColor=white" /></a>
   
   <a href="https://railway.app/new/template?template=https://github.com/arun-cumar/Nexa-Bot-Md"><img src="https://img.shields.io/badge/Deploy_to-Railway-black?style=for-the-badge&logo=railway" /></a>
   
-  <a href="https://www.heroku.com/deploy/?template=https://github.com/arun-cumar/Nexa-Bot-Md"><img src="https://img.shields.io/badge/Deploy_to-Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white" /></a>
+  <a href="https://www.heroku.com/deploy/?template=https://github.com/arun-cumar/Nexa-Bot-Md"><img src="https://img.shields.io/badge/Deploy_to-Heroku-black?style=for-the-badge&logo=heroku&logoColor=white" /></a>
 </p>
 
 ---
