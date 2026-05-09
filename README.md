@@ -9,8 +9,8 @@
 
 
 <p align="left">
-<a href="https://only-cathrine-menualive-c76dd2b7.koyeb.app/"><img src="https://img.shields.io/badge/Session_Server_1-Koyeb-green?style=for-the-badge&logo=render" /></a>
-<a href="https://ordinary-blisse-roxe-filexor-a6e0c820.koyeb.app/"><img src="https://img.shields.io/badge/Session_Server_2-Koyeb-black?style=for-the-badge&logo=render" /></a>
+<a href="https://only-cathrine-menualive-c76dd2b7.koyeb.app/"><img src="https://img.shields.io/badge/Session_Server_1-green?style=for-the-badge&logo=render" /></a>
+<a href="https://ordinary-blisse-roxe-filexor-a6e0c820.koyeb.app/"><img src="https://img.shields.io/badge/Session_Server_2-black?style=for-the-badge&logo=render" /></a>
 </p>
 
 ## 💻 Manual Installation (VPS / Panel / Terminal)
